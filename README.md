@@ -40,7 +40,6 @@ Throughout this journey, I aim to:
 
 ```
 data-science-learning-journey/
-├── Python-Basics/
 ├── NumPy/
 ├── Pandas/
 ├── Data-Visualization/
@@ -53,14 +52,6 @@ data-science-learning-journey/
 ```
 
 ## 📚 Topics Covered
-
-### 🐍 Python Fundamentals
-- Variables and Data Types
-- Operators and Conditional Statements
-- Loops and Functions
-- Lists, Tuples, Dictionaries, Sets
-- File Handling and Exception Handling
-- Object-Oriented Programming
 
 ### 🔢 NumPy
 - Array Creation and Operations
@@ -112,8 +103,7 @@ This repository also includes practical projects such as:
 
 | Module | Status |
 |--------|--------|
-| Python Fundamentals | ⏳ In Progress |
-| NumPy | ⏳ In Progress |
+| NumPy | Done ✅ |
 | Pandas | ⏳ In Progress |
 | Data Visualization | ⏳ In Progress |
 | Statistics | ⏳ In Progress |
